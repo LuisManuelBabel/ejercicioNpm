@@ -9,7 +9,6 @@
   "author": "Luis Manuel",
   "license": "ISC",
   "dependencies": {
-    "date": "^2.0.4",
     "moment": "^2.30.1"
   }
 }
